@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line excuse an AI agent can give after failing a task to /output/entry.txt.","license":"MIT","main":"main.ts","name":"the-funniest-ai-excuse","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
